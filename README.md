@@ -1,4 +1,4 @@
-# Image_Audio_Encrypter_Decrypter
+# Image Audio Encrypter Decrypter
 
 The Jupyter notebook contains a comprehensive user guide for this tool.
 
